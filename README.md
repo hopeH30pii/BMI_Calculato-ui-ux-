@@ -1,2 +1,3 @@
-# myrepository
+# BMIcalculator
+
 practical repo
